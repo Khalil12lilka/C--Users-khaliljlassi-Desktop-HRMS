@@ -1,0 +1,26 @@
+[
+    {
+      "nom": "Sophie Martin",
+      "poste": "Développeur Frontend",
+      "departement": "Technologie",
+      "email": "sophie.martin@example.com",
+      "dateEmbauche": "2020-04-12",
+      "statut": "Actif"
+    },
+    {
+      "nom": "Lucas Petit",
+      "poste": "Ingénieur DevOps",
+      "departement": "Technologie",
+      "email": "lucas.petit@example.com",
+      "dateEmbauche": "2019-07-18",
+      "statut": "En congé"
+    },
+    {
+      "nom": "Manon Roux",
+      "poste": "Assistante Administrative",
+      "departement": "Administration",
+      "email": "manon.roux@example.com",
+      "dateEmbauche": "2019-11-19",
+      "statut": "Terminé"
+    }
+  ]
